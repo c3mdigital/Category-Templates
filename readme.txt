@@ -9,6 +9,8 @@ This is a fork of Arron Loege's Category Template plugin to fix some minor bugs 
 
 Note:  I am not supporting this plugin. Use as is!
 
+TODO:  Change the script calls to wp_enqueue_script.  Original author echoes <script> tags in admin_head
+
 Give your categories and posts their own individual templates.
 
 == Description ==
