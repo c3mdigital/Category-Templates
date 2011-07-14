@@ -37,8 +37,6 @@ function cat_temp_menus() {
     }
 }
 
-function cat_temp_menus()  
-
 function cat_temp_meta() {
 	global $wpdb, $post_ID;
 	
