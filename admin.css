@@ -1,0 +1,14 @@
+.wide {
+width:25%;
+}
+.r {
+text-align:right;
+vertical-align:middle !important;
+color:#999999;
+font-style:italic;
+width:3%;
+padding-right:0 !important;
+}
+.noborder {
+border-bottom-style:dashed !important;
+}
